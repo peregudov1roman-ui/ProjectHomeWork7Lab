@@ -44,4 +44,5 @@
 
 Блок схема:
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/48ef18f2-4aaf-466a-95b4-25150ce4a047" />
+<img width="490" height="1862" alt="Диаграмма7ЛБ drawio" src="https://github.com/user-attachments/assets/20a0f47e-57ff-4530-9cc1-eadab08a7eb4" />
+
